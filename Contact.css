@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0; 
+}
+.main{
+    background: #154c79;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+   
+}
+.nav_bar {
+    text-align:end;
+    margin: 1rem ;
+    font-weight: bold;
+}
+.nav_bar :hover{
+    background-color: blue;
+    text-decoration: underline;
+}
+a{
+    margin-right: 25px;
+    text-decoration: none;
+    color: white;
+}
+h1{
+    text-align: center;
+    text-decoration: solid;
+    color: #2DD284;
+}
+.Contact{
+    margin-top: 3rem;
+    text-align: center;
+    justify-content: center;
+}
+#firstname {
+    height: 25px;
+    width: 300px;
+    margin-top: 1rem;
+    background-color: black;
+    color: white;
+}
+#lastname{
+    height: 25px;
+    width: 300px;
+    margin-top: 1rem;
+    background-color: black;
+    color: white;
+}
+#phone{
+    height: 25px;
+    width: 300px;
+    margin-top: 1rem;
+    background-color: black;
+    color: white;
+}
+#Subject{
+    height: 25px;
+    width: 300px;
+    margin-top: 1rem;
+    background-color: black;
+    color: white;
+}
+#email{
+    height: 25px;
+    width: 600px;
+    margin-top: 1rem;
+    background-color: black;
+    color: white;
+}
+#message{
+    height: 55px;
+    width: 600px;
+    margin-top: 1rem;
+    background-color: black;
+    color: white;
+}
+button{
+    height: 30px;
+    width: 600px;
+    margin-top: 1rem;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+}
+button:hover{
+    color: black;
+    background-color: azure;
+}
+.icons{
+    margin-top: 3rem;
+    text-align: center;
+    justify-content: center;
+    font-size: 25px;
+}
+a :hover{
+    color: blue;
+}
