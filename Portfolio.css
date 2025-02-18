@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0; 
+}
+.main{
+    background: #154c79;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+}
+.nav_bar {
+    text-align:end;
+    margin: 1rem ;
+    font-weight: bold;
+}
+.nav_bar :hover{
+    background-color: blue;
+    text-decoration: underline;
+}
+a{
+    margin-right: 25px;
+    text-decoration: none;
+    color: white;
+}
+h1{
+    text-align: center;
+    text-decoration: solid;
+    color: #2DD284;
+}
+
+img{
+    margin-top: 2rem;
+    height: 250px;
+    width: 500px;
+}
